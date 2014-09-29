@@ -13,5 +13,5 @@ Gem::Specification.new do |gem|
   gem.version       = "0.2.0.pre"
 
   gem.add_dependency 'omniauth', '~> 1.2'
-  gem.add_dependency 'omniauth-oauth2', '~> 1.2'
+  gem.add_dependency 'omniauth-oauth2', '~> 1.1'
 end
